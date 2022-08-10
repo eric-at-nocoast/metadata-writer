@@ -1,12 +1,12 @@
 # Metadata Writer
 
-This is a small ticket sidebar app which isn't visible to the UI. The purpose of it is to grab the metadata from the first comment and append it to the ticket comment. 
+This is a small ticket sidebar app which isn't visible to the UI. The purpose of it is to grab the metadata from the first comment and append it to the ticket comment.
 
-## To Use:
+## To Use
 
 1. Clone the repository
-2. Zip the directory 
-3. Upload into your account as a private app.
+1. Replace the custom field id's in the `main.js` file with your own custom field id's
+1. Zip the directory
+1. Upload into your account as a private app.
 
-
-##  App Tray must be open for the application to function 
+## App Tray must be open for the application to function
